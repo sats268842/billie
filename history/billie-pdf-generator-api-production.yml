@@ -1,7 +1,7 @@
 url: https://api.billie.digital
-status: down
-code: 502
-responseTime: 664
-lastUpdated: 2021-11-16T05:55:43.378Z
+status: up
+code: 200
+responseTime: 613
+lastUpdated: 2021-11-16T07:07:46.928Z
 startTime: Tue Nov 16 2021 05:23:40 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
