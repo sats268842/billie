@@ -7,7 +7,12 @@ sites:
     url: https://billie.digital
   - name: Billie-Staging
     url: https://staging.billie.digital
-
+  - name: Billie-API-Staging
+    url: https://api2-staging.billie.digital
+  - name: Billie-API-Production
+    url: https://api2.billie.digital
+  - name: Billie-PDF-GENERATOR-API-Production
+    url: https://api.billie.digital
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
