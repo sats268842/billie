@@ -12,7 +12,7 @@ status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: monitor.billie.digital
-  baseUrl: /billie
+#   baseUrl: /billie
   logoUrl: https://ik.imagekit.io/sats268842/logo_billie_7ABBI2Onh.png?updatedAt=1636970406063
   name: Billie Monitor
   introTitle: "**Billie** is the open-source uptime monitor and status page, powered entirely by GitHub."
