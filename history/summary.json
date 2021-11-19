@@ -4,9 +4,9 @@
     "url": "https://billie.digital",
     "icon": "https://favicons.githubusercontent.com/billie.digital",
     "slug": "billie-production",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,16 +15,18 @@
     "timeWeek": 804,
     "timeMonth": 804,
     "timeYear": 804,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-11-19": 0
+    }
   },
   {
     "name": "Billie-Staging",
     "url": "https://staging.billie.digital",
     "icon": "https://favicons.githubusercontent.com/staging.billie.digital",
     "slug": "billie-staging",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,16 +35,18 @@
     "timeWeek": 728,
     "timeMonth": 728,
     "timeYear": 728,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-11-19": 0
+    }
   },
   {
     "name": "Billie-API-Staging",
     "url": "https://api2-staging.billie.digital",
     "icon": "https://favicons.githubusercontent.com/api2-staging.billie.digital",
     "slug": "billie-api-staging",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -51,7 +55,9 @@
     "timeWeek": 666,
     "timeMonth": 666,
     "timeYear": 666,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-11-19": 0
+    }
   },
   {
     "name": "Billie-API-Production",
@@ -77,11 +83,11 @@
     "icon": "https://favicons.githubusercontent.com/api.billie.digital",
     "slug": "billie-pdf-generator-api-production",
     "status": "up",
-    "uptime": "98.20%",
+    "uptime": "98.42%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "98.20%",
-    "uptimeMonth": "98.20%",
-    "uptimeYear": "98.20%",
+    "uptimeWeek": "98.42%",
+    "uptimeMonth": "98.42%",
+    "uptimeYear": "98.42%",
     "time": 682,
     "timeDay": 749,
     "timeWeek": 682,
