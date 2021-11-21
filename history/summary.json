@@ -40,19 +40,19 @@
     "url": "https://api2-staging.billie.digital",
     "icon": "https://favicons.githubusercontent.com/api2-staging.billie.digital",
     "slug": "billie-api-staging",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 633,
-    "timeDay": 589,
-    "timeWeek": 633,
-    "timeMonth": 633,
-    "timeYear": 633,
+    "status": "up",
+    "uptime": "99.91%",
+    "uptimeDay": "99.55%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.91%",
+    "time": 626,
+    "timeDay": 582,
+    "timeWeek": 626,
+    "timeMonth": 626,
+    "timeYear": 626,
     "dailyMinutesDown": {
-      "2021-11-21": 0
+      "2021-11-21": 6
     }
   },
   {
@@ -61,19 +61,17 @@
     "icon": "https://favicons.githubusercontent.com/api2.billie.digital",
     "slug": "billie-api-production",
     "status": "up",
-    "uptime": "99.88%",
-    "uptimeDay": "99.43%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.88%",
-    "uptimeYear": "99.88%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 705,
     "timeDay": 692,
     "timeWeek": 705,
     "timeMonth": 705,
     "timeYear": 705,
-    "dailyMinutesDown": {
-      "2021-11-21": 8
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Billie-PDF-GENERATOR-API-Production",
