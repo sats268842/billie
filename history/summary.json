@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 651,
-    "timeDay": 579,
-    "timeWeek": 604,
-    "timeMonth": 591,
-    "timeYear": 651,
+    "time": 650,
+    "timeDay": 621,
+    "timeWeek": 588,
+    "timeMonth": 586,
+    "timeYear": 650,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 607,
-    "timeDay": 565,
-    "timeWeek": 615,
-    "timeMonth": 570,
-    "timeYear": 607,
+    "time": 613,
+    "timeDay": 925,
+    "timeWeek": 663,
+    "timeMonth": 580,
+    "timeYear": 613,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,11 @@
     "uptimeWeek": "97.84%",
     "uptimeMonth": "99.50%",
     "uptimeYear": "99.62%",
-    "time": 1089,
-    "timeDay": 723,
-    "timeWeek": 666,
-    "timeMonth": 1297,
-    "timeYear": 1089,
+    "time": 1078,
+    "timeDay": 732,
+    "timeWeek": 648,
+    "timeMonth": 1296,
+    "timeYear": 1078,
     "dailyMinutesDown": {
       "2021-12-25": 217
     }
@@ -61,18 +61,19 @@
     "icon": "https://favicons.githubusercontent.com/api2.billie.digital",
     "slug": "billie-api-production",
     "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "99.35%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
-    "time": 689,
-    "timeDay": 642,
-    "timeWeek": 691,
-    "timeMonth": 688,
-    "timeYear": 689,
+    "uptime": "99.58%",
+    "uptimeDay": "83.35%",
+    "uptimeWeek": "97.62%",
+    "uptimeMonth": "99.45%",
+    "uptimeYear": "99.58%",
+    "time": 690,
+    "timeDay": 686,
+    "timeWeek": 694,
+    "timeMonth": 689,
+    "timeYear": 690,
     "dailyMinutesDown": {
-      "2021-12-25": 9
+      "2021-12-26": 3,
+      "2021-12-25": 237
     }
   },
   {
@@ -87,9 +88,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.87%",
     "time": 675,
-    "timeDay": 621,
+    "timeDay": 678,
     "timeWeek": 685,
-    "timeMonth": 674,
+    "timeMonth": 675,
     "timeYear": 675,
     "dailyMinutesDown": {
       "2021-11-16": 72
